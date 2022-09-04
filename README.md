@@ -14,9 +14,9 @@ This project has only one dependency which is [URL-Image](https://github.com/dmy
 Here are the screens
 ======================
 <p float="left">
-  <img src="/ScreenImages/ss1.png" width="1200" height= "358"/>&nbsp; 
-    <img src="/ScreenImages/ss2.png" width="1200" height= "358"/>&nbsp; 
-      <img src="/ScreenImages/ss3.png" width="1200" height= "358"/>&nbsp; 
+  <img src="ScreenFiles/ss1.png" width="1200" height= "358"/>&nbsp; 
+    <img src="ScreenFiles/ss2.png" width="1200" height= "358"/>&nbsp; 
+      <img src="ScreenFiles/ss3.png" width="1200" height= "358"/>&nbsp; 
   </br> 
 </p>
 
