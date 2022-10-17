@@ -26,13 +26,10 @@ class NewsViewModelImplementation: ObservableObject, NewsViewModel {
   }
 
   func getArticles() {
-
     self.state = .loading
-
     let cancellable = service
       .request(from: .getNews)
       .sink { result in
-
         switch result {
         case .finished:
           self.state = .success(content: self.articles)
